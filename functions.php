@@ -1,9 +1,4 @@
 <?php
-
-// ==========================================================
-//  Copyright Reserved Wael Wael Abo Hamza (Course Ecommerce)
-// ==========================================================
- 
 define("MB", 1048576);
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
